@@ -1,6 +1,6 @@
 -- โหลด Library
 local HttpService = game:GetService("HttpService")
-local FluentUrl = ""
+local FluentUrl = "https://raw.githubusercontent.com/HaNKMF/Synex-KODKAK/refs/heads/main/Synex-KODKAK.lua"
 local SaveManagerUrl = "https://raw.githubusercontent.com/HaNKMF/Synex-KUB/refs/heads/main/Synex-KUB.lua"
 local InterfaceManagerUrl = "https://raw.githubusercontent.com/HaNKMF/Synex-InterfaceManager.lua/refs/heads/main/InterfaceManager.lua"
 
